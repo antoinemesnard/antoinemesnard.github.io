@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Antoine Mesnard</title>
+        <link href="style.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <p><b>Antoine Mesnard</b><br>
+            Doctorant en cryptographie<br></p>
+        </header>
+
+        <nav>
+            <p><a href="en">Anglais</a> | <b>Français</b></p>
+        </nav>
+
+        <main>
+                <div class="container">
+                    <div class="text">
+                        <section>
+                        <h1>Présentation</h1>
+                        <p>Je suis doctorant en cryptographie, sous la supervision de <a href="https://www.paris.inria.fr/secret/Nicolas.Sendrier/index.php">Nicolas Sendrier</a>, au sein de l'<a href="https://www.rocq.inria.fr/secret/">équipe Cosmiq</a> à l'<a href = "https://www.inria.fr/">Inria</a> Paris, depuis novembre 2024.</p>
+                        </section>
+                        <section>
+                        <h1>Recherche</h1>
+                        <p>Ma recherche porte principalement sur la cryptographie à clé publique fondée sur les codes correcteurs, en particulier :
+                            <ul>
+                                <li>Le décodage générique</li>
+                                <li>Le décodage des codes QC-MDPC et l'analyse du <a href="https://bikesuite.org/">cryptosystème BIKE</a>, un mécanisme d'encapsulation de clés candidat au processus de <a href="https://csrc.nist.gov/projects/post-quantum-cryptography">standardisation post-quantique du NIST</a>.</li>
+                            </ul></p>
+                        </section>           
+
+                        <section>
+                            <h1>Enseignements</h1>
+                            <p>En plus de ma recherche, je donne des enseignements à <a href="https://www.sorbonne-universite.fr/">Sorbonne Université</a>.</p>
+                            <p>2024-2025 :<br>Éléments de programmation 1 - Travaux pratiques (Sorbonne Université)<br>
+                            <i>Introduction à la programmation (en Python) pour des étudiants en 1ère année d'informatique</i></p>
+                        </section>
+
+                        <section>
+                            <h1>Formation</h1>
+                            <p>2023-2024 : Master de Mathématiques - Algèbre Appliquée (Université Paris-Saclay)<br>
+                            2021-2023 : Master de Mathématiques - Formation à l'enseignement supérieur (Université Paris-Saclay)<br>
+                            2020-2021 : Licence de Mathématiques (Université Paris-Saclay)<br>
+                            2018-2020 : Classe préparatoire aux grande écoles MPSI / MP * (Lycée Camille Guérin)</p>
+                        </section>
+
+                        <section>
+                            <h1>Contact</h1>
+                            <p>prenom [point] nom [arobase] inria [point] fr</p>
+                            <p>Bureau C302<br>Centre de recherche Inria Paris<br>48 rue Barrault<br>75013 Paris</p>  
+                        </section>
+                    </div>
+                    <div class="picture">
+                        <img src="photo.jpg" alt="Une photo de moi" width="270px" />
+                    </div>
+                </div>
+        </main>
+    </body>
+</html>

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Antoine Mesnard</title>
+        <link href="style.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <header>
+            <p><b>Antoine Mesnard</b><br>
+            Doctoral researcher in cryptography<br></p>
+        </header>
+
+        <nav>
+            <p><b>English</b> | <a href="fr">French</a></p>
+        </nav>
+
+        <main>
+                <div class="container">
+                    <div class="text">
+                        <section>
+                        <h1>Presentation</h1>
+                        <p>I am a doctoral researcher in cryptography, under the supervision of <a href="https://www.paris.inria.fr/secret/Nicolas.Sendrier/index.php">Nicolas Sendrier</a>, within the <a href="https://www.rocq.inria.fr/secret/">Cosmiq team</a> at <a href = "https://www.inria.fr/">Inria</a> Paris, since November 2024.</p>
+                        </section>
+                        <section>
+                        <h1>Research</h1>
+                        <p>My main research interest is code-based public key cryptography, especially
+                            <ul>
+                                <li>Generic decoding</li>
+                                <li>Decoding of QC-MDPC codes and analysis of <a href="https://bikesuite.org/">BIKE  cryptosystem</a>, a Key Encapsulation Mechanism candidate to the <a href="https://csrc.nist.gov/projects/post-quantum-cryptography">NIST post-quantum standardization</a>.</li>
+                            </ul></p>
+                        </section>
+
+                        <section>
+                            <h1>Teachings</h1>
+                            <p>Besides my research, I give tutorials in computer science at <a href="https://www.sorbonne-universite.fr/">Sorbonne Université</a>.</p>
+                            <p>2024-2025 :<br>Programming elements 1 - Practical Work (Sorbonne Université)<br>
+                            <i>Introduction to (Python) programming for 1st year computer science students</i></p>
+                        </section>
+            
+                        <section>
+                            <h1>Education</h1>
+                            <p>2023-2024 : Master degree in Mathematics - Applied Algebra (Université Paris-Saclay)<br>
+                               2021-2023 : Master degree in Mathematics for higher education (Université Paris-Saclay)<br>
+                               2020-2021 : Bachelor degree in Mathematics (Université Paris-Saclay)<br>
+                               2018-2020 : Preparatory class in Mathematics and Physics (Lycée Camille Guérin)</p>
+                        </section>
+            
+                        <section>
+                            <h1>Contact</h1>
+                            <p>first [dot] last [at] inria [dot] fr</p>
+                            <p>Office C302<br>Inria Paris research center<br>48 rue Barrault<br>75013 Paris</p> 
+                        </section>
+                    </div>
+                    <div class="picture">
+                        <img src="photo.jpg" alt="A picture of me" width="270px" />
+                    </div>
+                </div>
+        </main>
+    </body>
+</html>
